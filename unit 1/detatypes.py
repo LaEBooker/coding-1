@@ -30,3 +30,4 @@
 False, 0, "",
 True, 1, "huksgjmbisuj"
 
+Variable - a container that stores data
