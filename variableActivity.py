@@ -19,3 +19,16 @@ BronzeGym = True
 ResturantSweetT3A = 3.79
 ResturantS0DA = 5.36
 ResturantLem0nad3 = 4.90
+
+# VARIABLE NAMING CONVENTIONS
+# we use naming conventionsbecause we CANNOT have spaces in variable names.
+
+# CAMEL CASE - when creating variable names with multiple words,
+# every new word begins with a captial letter. 
+# the reason why it's called camel case is bc every new word 
+# represents a hump.
+
+# SNAKE CASE - when creating a variable using snake case 
+# we use a underscore symbol to space out each word
+# the reason why it's called snake case is bc the ubderscore 
+# represents a snake on the ground snake_case_
