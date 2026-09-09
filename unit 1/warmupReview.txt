@@ -1,0 +1,9 @@
+1:  STRINGS - BOOLEAN - INTERGERS - FLOATS
+
+2:  Code repository is a bunch of space for storing files of code.
+
+3:  A computer is an input device because using the keyboard creates a certain outcome.
+
+4:  A variable is a way to contain data.
+
+5:  SNAKE_CASE_ is a variable naming rule that we learned because adding spaces to a variable confuses the computer.
