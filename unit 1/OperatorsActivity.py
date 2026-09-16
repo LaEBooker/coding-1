@@ -13,7 +13,7 @@ print(10.99 + 399.99)
 
 Cart= 98.87
 amountToGetDiscount= 100.00
-print(98.87 < 100.00) = True
+print(98.87 > 100.00) = True
 
 Shoes= 200.00
 Tax= 0.07
@@ -21,8 +21,8 @@ print(200 * 0.07)
 
 GPA= 86
 Recommendation= True
-print(86 > 85) = True
+print(86 > 85 and Recommendation) = True
 
 parentContact1= False
 parentContact2= True
-print(parentContact1 = False and parentContact2 = True)
+print(parentContact1 or parentContact2)
