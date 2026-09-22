@@ -1,6 +1,6 @@
 # VARIABLE - a container that stores data. you can name your container almost anything you want, so long its descriptive.
 
-Name= Elijah Booker
+Name= Elijah 
 Yearsofexp= 0
 graduate= True 
 

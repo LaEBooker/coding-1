@@ -3,11 +3,11 @@
 # you can use both single and double quotations.
 # marks for strings
 
-"Elijah Booker
+"Elijah Booker"
 
-"123 Main street
+"123 Main street"
 
-"this cost $15.00
+"this cost $15.00"
 
 # the hastag is a marker that makes anything behind it invisible.
 
@@ -30,4 +30,4 @@
 False, 0, "",
 True, 1, "huksgjmbisuj"
 
-Variable - a container that stores data
+# Variable - a container that stores data
