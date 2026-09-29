@@ -1,0 +1,9 @@
+val = input()
+print(13 + 15.00)
+
+GPA = 89
+print(89 > 85 and 42 > 40)
+
+
+
+

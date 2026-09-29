@@ -2,8 +2,9 @@ val = input("type in a number:")
 print(int(val) > 85)
 
 val = input('type in a number:')
-print(int(val) + 360) = 500
+print(int(val) + 360)
 
-val = input('boys latin')
-val2 = input('boys latin')
-print(int(val) == int(val2)) == True 
+val = input("")
+val2 = "Boys Latin"
+print(val == val2)
+
