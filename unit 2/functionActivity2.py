@@ -11,11 +11,12 @@ def CompareVal():
     Num2= input('Second numer')
     print=(Num1 > Num2)
 
-#CompareVal()
+# CompareVal()
 
 def CompareHonorroll():
     Grade1= input('type a number')
     AbsentDays= input('type a number')
     print=(Grade1 > 90  and AbsentDays < 5)
 
-CompareHonorroll()
+
+# CompareHonorroll()
